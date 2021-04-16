@@ -8,6 +8,6 @@ Open a new terminal (Ctrl+Shift+T), navigate to the location where this file is 
 
 This will take some time depending upon file sizes that it will download and also your internet speed.
 
-# Suggestion 
+## Suggestion 
 
-Have some coffee and come back ;-)
+Leave the command running, go have some coffee and come back ;-)
