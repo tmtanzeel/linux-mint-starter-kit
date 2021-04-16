@@ -6,4 +6,8 @@ Open a new terminal (Ctrl+Shift+T), navigate to the location where this file is 
 
 >./starter.sh
 
-This will take some time depending upon your internet connection.
+This will take some time depending upon file sizes that it will download and also your internet speed.
+
+# Suggestion 
+
+Have some coffee and come back ;-)
